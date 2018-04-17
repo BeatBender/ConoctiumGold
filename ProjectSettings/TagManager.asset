@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sol
+  - Player1
+  - Resume_btn
+  - Portal
+  - Radioactive
+  - Player2
+  - NewGameButton
+  - EditorController
+  - Level2btn
+  - Level1btn
+  - Level4btn
+  - BackOptionbtn
+  - Level10btn
+  - QuitButton
+  - OptionsButton
+  - Level3btn
+  - Backbtn
+  - LevelInfos
+  - checkpoint
+  - LoadButtonEditor
+  - SupprButtonEditor
+  - soundManager
+  - ToggleSound
+  - OptionsMenu
+  - Saw
+  - Elevator
+  - Angle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Billes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
